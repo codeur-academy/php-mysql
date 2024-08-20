@@ -1,15 +1,15 @@
 ---
-reference: tests-unitaires
-slug: tests-unitaires
-unit_reference: techniques-avancés-php-tests-unitaires
+reference: techniques-avancés-php
+slug: techniques-avancés-php
+unit_reference: ''
 module_reference: techniques-avancés-php
-nature: ''
-title: Tests unitaires
+nature: introduction-module
+title: Aller plus loin avec PHP
 description: ''
 skill_level_reference: ''
 image: ''
 published: true
-order: 56
+order: 53
 directory: techniques-avancés-php
 layout: parts
 ---

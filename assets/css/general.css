@@ -175,3 +175,9 @@ blockquote {
     margin: 5px 0px;
     font-weight: bold;
 }
+
+/*#191E26 #0597F2 #04BF8A #04D94F #F2F2F2 */
+.chapter .introduction-module {
+    color: #3AA8AD !important;
+    padding-top: 5px;
+}

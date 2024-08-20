@@ -3,6 +3,7 @@ reference: introduction
 slug: introduction
 unit_reference: ''
 module_reference: ''
+nature: ''
 title: Introduction
 description: ''
 skill_level_reference: ''

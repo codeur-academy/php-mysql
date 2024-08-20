@@ -1,14 +1,15 @@
 ---
-reference: design-patterns
-slug: design-patterns
-unit_reference: poo-php-design-patterns
+reference: poo-php
+slug: poo-php
+unit_reference: ''
 module_reference: poo-php
-title: Les design patterns
+nature: introduction-module
+title: Programmation Orientée Objet en PHP
 description: ''
 skill_level_reference: ''
 image: ''
 published: true
-order: 36
+order: 34
 directory: poo-php
 layout: parts
 ---

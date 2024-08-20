@@ -1,15 +1,15 @@
 ---
-reference: pdo-mysqli
-slug: pdo-mysqli
-unit_reference: php-mysql-pdo-mysqli
+reference: php-mysql
+slug: php-mysql
+unit_reference: ''
 module_reference: php-mysql
-nature: ''
-title: 'PDO : une alternative à mysqli'
+nature: introduction-module
+title: ''
 description: ''
 skill_level_reference: ''
 image: ''
 published: true
-order: 32
+order: 25
 directory: php-mysql
 layout: parts
 ---

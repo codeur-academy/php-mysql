@@ -1,15 +1,15 @@
 ---
-reference: jointures
-slug: jointures
-unit_reference: stockage-mysql-jointures
+reference: stockage-mysql
+slug: stockage-mysql
+unit_reference: ''
 module_reference: stockage-mysql
-nature: ''
-title: Les jointures
+nature: introduction-module
+title: 'Stockage de données : MySQL'
 description: ''
 skill_level_reference: ''
 image: ''
 published: true
-order: 20
+order: 16
 directory: stockage-mysql
 layout: parts
 ---

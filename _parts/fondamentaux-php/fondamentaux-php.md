@@ -1,15 +1,15 @@
 ---
-reference: introduction-php
-slug: introduction-php
-unit_reference: fondamentaux-php-introduction-php
+reference: fondamentaux-php
+slug: fondamentaux-php
+unit_reference: ''
 module_reference: fondamentaux-php
-nature: ''
-title: Introduction à PHP
+nature: introduction-module
+title: Les fondamentaux de PHP
 description: ''
 skill_level_reference: ''
 image: ''
 published: true
-order: 3
+order: 2
 directory: fondamentaux-php
 layout: parts
 ---
