@@ -11,7 +11,7 @@ module Jekyll
       
       def initialize()
         @data_directory = "_data/collections"
-        @google_sheet_id = "1z_kyk6ZUFuHoEvKAxw-Vrk6oRQjj-q4OkgapUAbgA4o"
+        @google_sheet_id = "19l-s-7EOZGzw6mZXVutMkIMjRAtNiWs-F9VBtcXtRzM"
         @base_url_sheet = "https://docs.google.com/spreadsheets/d/#{@google_sheet_id}/gviz/tq?tqx=out:csv&sheet="
       end
 

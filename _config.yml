@@ -31,6 +31,9 @@ collections:
   modules:
     output: true
     permalink: /modules/:title
+  units:
+    output: true
+    permalink: /units/:title
   parts:
     output: true
     permalink: /parts/:title

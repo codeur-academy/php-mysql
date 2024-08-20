@@ -1,13 +1,10 @@
-"reference","title","description","order","","","","","","","","","","","","","","","","","","","","","",""
-"informatique-web","Initiation à l'information et web","","1","","","","","","","","","","","","","","","","","","","","","",""
-"programmation","Concepts de base de la programmation","- Initiation à la Programmation avec JavaScript
-","2","","","","","","","","","","","","","","","","","","","","","",""
-"page-web","Création des pages web","- Les Bases de HTML, CSS et JavaScript
-- Maîtriser HTML, CSS et JavaScript
-","3","","","","","","","","","","","","","","","","","","","","","",""
-"logique-programmation","Initiation  à la logique de Programmation","- Initiation à la Pensée Algorithmique et à la Logique de Programmation","4","","","","","","","","","","","","","","","","","","","","","",""
-"Initiation-git","Initiation à git","Initiation à l'utilisation de gestion de version avec git","5","","","","","","","","","","","","","","","","","","","","","",""
-"poo-js","Programmation orienté objet avec Javascript","","6","","","","","","","","","","","","","","","","","","","","","",""
-"initiation-gestion-projet","Initiation à la gestion de projet","","7","","","","","","","","","","","","","","","","","","","","","",""
-"site-web","Création des sites web","- Création des sites web performants
-","8","","","","","","","","","","","","","","","","","","","","","",""
+"reference","title","description","order"
+"fondamentaux-php","Les fondamentaux de PHP","Acquérir les bases solides de PHP pour construire des applications web interactives.","1"
+"formulaires-et-sessions","Interaction avec l'utilisateur : Formulaires et Sessions","Apprendre à créer des applications web interactives qui répondent aux actions de l'utilisateur.","2"
+"stockage-mysql","Stockage de données : MySQL","Apprendre à gérer et à stocker des données de manière structurée à l'aide d'un système de gestion de base de données relationnelle (SGBDR) comme MySQL.","3"
+"php-mysql","PHP et MySQL main dans la main","Apprendre à établir une connexion entre une application PHP et une base de données MySQL, et à exécuter des requêtes SQL pour récupérer et manipuler des données.","4"
+"poo-php","Programmation Orientée Objet en PHP","Apprendre à structurer votre code PHP de manière plus logique et réutilisable en utilisant la programmation orientée objet (POO).","5"
+"sécurité-php","Sécurité en PHP","Apprendre à identifier et à prévenir les principales vulnérabilités en PHP afin de sécuriser vos applications web.","6"
+"techniques-avancés-php","Aller plus loin avec PHP","Découvrir des outils, des techniques et des concepts avancés pour optimiser vos applications PHP et les rendre plus performantes, plus robustes et plus évolutives.","7"
+"projet-final","Projet final ","Un projet final est la meilleure façon de consolider vos connaissances et de vous lancer dans des projets plus ambitieux. 
+","8"

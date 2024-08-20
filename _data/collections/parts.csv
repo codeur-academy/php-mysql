@@ -1,79 +1,52 @@
-"reference","unit_reference","module_reference","title","description","porposition_projet","topics","skill_level_reference","image","published","order"
-"introduction","","","Introduction à la formation","Découvrir le plan de formation","","","","","TRUE","1"
-"introduction-informatique","introduction-informatique-web","informatique-web","Introduction à l'informatique","Comprendre les concepts de base de l'informatique et le fonctionnement des ordinateurs","","- Concepts de base de l'informatique
-- Fonctionnement de l'ordinateur
-- Rôle des langages de programmation","","","TRUE","2"
-"introduction-web","introduction-informatique-web","informatique-web","Introduction au Web","Comprendre les fondamentaux du Web, d'Internet et  le rôle des langages HTML, CSS, JS","Création d'une page web simple affichant un message de bienvenue","- Définition de Web et Internet
-- Définition de HTML, CSS, et JavaScript
-- Concepts de base : client/serveur, requête, réponse
-- Définition de HTTP
-","","","TRUE","3"
-"environnement-développement","introduction-informatique-web","informatique-web","Environnement de développement","Configurer un environnement de développement web efficace","Installer et configurer VS Code","- Installation d'un éditeur de code (VS Code)
-- Configuration de l'éditeur et des extensions utiles","","","TRUE","4"
-"variable-affectation","base-programmation-js","programmation","Variable et affectation","","","","","","TRUE","5"
-"structures-contrôle","base-programmation-js","programmation","Structures de contrôle","","","","","","","6"
-"fonctions","base-programmation-js","programmation","Fonctions","","","","","","","7"
-"html-fondamentaux","php-mysql-bases","page-web","Fondamentaux HTML","Comprendre les bases du langage, structurer une page web simple et l'afficher dans un navigateur.","- Créer une page web avec des titres, paragraphes, images, liens et listes
-","Structure de base: <!DOCTYPE html>, <html>, <head>, <body>.
-Éléments de base: <h1> à <h6>, <p>, <a>, <img>, <ul>, <ol>, <li>.
-Attributs essentiels: href, src, alt.","html-débutant","","TRUE","8"
-"html-contenu","php-mysql-bases","page-web","Contenu HTML","","- Créer une page personnelle simple avec votre nom, une photo et une brève présentation.
-- Construire une liste de liens vers vos sites web préférés","","html-débutant","","","9"
-"css-fondamentaux","php-mysql-bases","page-web","Fondamentaux CSS","Comprendre les bases du CSS, styliser des éléments HTML de manière simple et créer des mises en page de base.","- Styliser la page web créée précédemment en utilisant les sélecteurs et les propriétés de base du CSS
-- Créer une mise en page à deux colonnes.
-- Centrer du texte et des images.","Sélecteurs: id, class, éléments, attributs.
-Propriétés de base: color, font-size, background-color, width, height, margin, padding.
-Boîte CSS: Comprendre le modèle de boîte (box model).
-Mises en page simples: Utiliser les floats ou les positions pour organiser les éléments.","css-débutant","","TRUE","10"
-"js-fondamentaux","php-mysql-bases","page-web","Initiation à DOM avec JavaScript","Manipuler le DOM avec JavaScript et gérer les événements","- Ajouter des interactions simples à la page web, comme changer la couleur du texte au clic d'un bouton
-- Créer un compteur de clics.
-- Faire apparaître ou disparaître un élément au survol.","DOM: Document Object Model, accéder et modifier les éléments HTML.
-Événements: onclick, onmouseover, etc.
-Fonctions: Définir et appeler des fonctions.","js-débutant","","TRUE","11"
-"projet-base-php-mysql","php-mysql-bases","page-web","Projet 1 : CV en ligne","Intégrer les compétences acquises en HTML, CSS et JavaScript","Créer une page web simple présentant votre parcours (CV en ligne)","Intégrer les compétences acquises en HTML, CSS et JavaScript","","","TRUE","12"
-"structure-de-données","algorithme","logique-programmation","Structure de données","Comprendre les structures de données ","","","","","TRUE","13"
-"algorithmique","algorithme","logique-programmation","Algorithmique","développer des algorithmes efficaces","","","","","TRUE","14"
-"html-intermédiaire","php-mysql-maîtrise","page-web","HTML intermédiaire","Approfondir les connaissances en HTML, créer des structures plus complexes et maîtriser les tableaux, les formulaires et les iframes.","Créer un formulaire de contact avec validation des données.
-Construire une page web dynamique avec des onglets.
-Intégrer une carte interactive à l'aide d'un iframe.","Tables: <table>, <tr>, <td>, <th>.
-Formulaires: <form>, <input>, <select>, <textarea>.
-Iframes: <iframe>.
-Sémantique: Utiliser les éléments HTML5 pour améliorer le référencement et l'accessibilité (ex : header, nav, section, article, footer).","html-intermédiaire","","TRUE","15"
-"css-intermédiaire","php-mysql-maîtrise","page-web","CSS intermédiaire","Approfondir les connaissances en CSS, créer des mises en page plus complexes et maîtriser les concepts de flexbox et de grid.","- Créer une mise en page complexe en utilisant Flexbox et Grid
-- Créer une carte de visite interactive.
-- Construire un formulaire stylisé.
-- Développer un header et un footer réutilisables","Flexbox: Créer des mises en page responsives et flexibles.
-Grid: Organiser des éléments dans une grille.
-Positionnement: position, top, bottom, left, right.
-Typographie: Utiliser les propriétés avancées de font-family, font-weight, line-height.
-Pseudo-classes et pseudo-éléments: :hover, :active, ::before, ::after.","css-intermédiaire","","TRUE","16"
-"js-intermédiaire","php-mysql-maîtrise","page-web","JavaScript intermédiaire","- Approfondir les concepts de JavaScript, travailler avec les objets, manipuler les tableaux, et réaliser des opérations asynchrones.","Objets: Créer et utiliser des objets.
-Tableaux: Manipuler des collections de données.
-Asynchronisme: setTimeout, setInterval, async/await.
-DOM avancé: Traverser le DOM, manipuler les attributs et les styles.","Objets: Créer et utiliser des objets.
-Tableaux: Manipuler des collections de données.
-Asynchronisme: setTimeout, setInterval, async/await.
-DOM avancé: Traverser le DOM, manipuler les attributs et les styles.","js-intermédiaire","","TRUE","17"
-"projet-php-mysql-intermédiaire","php-mysql-maîtrise","page-web","Projet 2 : Quiz interactif","Intégrer les compétences intermédiaire en HTML, CSS et JavaScript","Créer un quiz interactif avec fonctionnalités avancées (suivi des scores, personnalisation)
-","","","","TRUE","18"
-"git","git","Initiation-git","Initiation à la gestion de version","","","","","","TRUE","19"
-"poo-js","poo-js","poo-js","Programmation orienté objet avec Javascript","","","","","","","20"
-"html-avancée","php-mysql-avancée","site-web","Optimisation et accessibilité HTML","Optimiser les pages web pour la performance, l'accessibilité et le SEO","Optimiser une page web existante pour améliorer ses performances et son accessibilité","Optimisation: Minimiser le code, utiliser un CDN, améliorer le temps de chargement.
-Accessibilité: Respecter les normes WCAG.","html-avancé","","TRUE","21"
-"css-animations","php-mysql-avancée","site-web","CSS pour animations et transitions","Maîtriser les techniques avancées de CSS, créer des animations et des effets visuels, et optimiser le code pour les performances.","- Créer un slider d'images animé.
-- Développer un portfolio avec des effets de parallaxe.
-- Construire un site web entièrement personnalisé avec un design unique","Préprocesseurs: Sass, Less.
-Animations CSS: transition, animation.
-Médias queries: Créer des sites web responsives.
-Optimisation: Minimiser le code CSS, utiliser des sprites.
-Frameworks CSS: Bootstrap, Foundation.","css-avancé","","TRUE","22"
-"css-responsive-design","php-mysql-avancée","site-web","","Responsive design","","","","","","23"
-"js-avancée","php-mysql-avancée","site-web","JavaScript pour applications web modernes","Maîtriser les concepts avancés de JavaScript, développer des applications web complexes, et utiliser des frameworks JavaScript.","Utiliser Fetch pour récupérer des données d'une API et les afficher sur une page web","Programmation orientée objet: Classes, héritage, polymorphisme.
-AJAX: Asynchronous JavaScript and XML, communiquer avec des serveurs.
-Bibliothèques: jQuery, Lodash.","js-avancé","","TRUE","24"
-"projet-php-mysql-avancée","php-mysql-avancée","site-web","Projet 3 : Application web interactive","Développer une application web interactive complète","Développer une application web interactive (todo list, quiz, jeu simple)","","","","TRUE","25"
-"optimisation-performances","spécialisation-création-site-web","site-web","Optimisation des performances","Optimiser les performances des sites web","Utiliser Webpack pour optimiser une application web","1. Techniques d'optimisation
-   - Minification, compression, lazy loading
-2. Gestion de build
-   - Introduction à Webpack et Parcel","","","TRUE","26"
-"projet-final-base-frent-end","spécialisation-création-site-web","site-web","Projet final","Intégrer toutes les compétences acquises pour créer un site web complet et optimisé","Créer un site web complet intégrant toutes les connaissances et compétences acquises pour un site optimisé et performant","","","","TRUE","27"
+"reference","slug","unit_reference","module_reference","title","description","skill_level_reference","image","published","order","directory"
+"introduction","introduction","","","Introduction","","","","TRUE","1",""
+"introduction-php","introduction-php","fondamentaux-php-introduction-php","fondamentaux-php","Introduction à PHP","","","","TRUE","2","fondamentaux-php"
+"variables-types-données","variables-types-données","fondamentaux-php-variables-types-données","fondamentaux-php","Variables et types de données","","","","TRUE","3","fondamentaux-php"
+"structures-contrôle","structures-contrôle","fondamentaux-php-structures-contrôle","fondamentaux-php","Structures de contrôle","","","","TRUE","4","fondamentaux-php"
+"tableaux","tableaux","fondamentaux-php-tableaux","fondamentaux-php","Tableaux","","","","TRUE","5","fondamentaux-php"
+"fonctions","fonctions","fondamentaux-php-fonctions","fondamentaux-php","Fonctions","","","","TRUE","6","fondamentaux-php"
+"bonnes-pratiques","bonnes-pratiques","fondamentaux-php-bonnes-pratiques","fondamentaux-php","Bonnes pratiques","","","","TRUE","7","fondamentaux-php"
+"introduction-formulaires","introduction-formulaires","formulaires-et-sessions-introduction-formulaires","formulaires-et-sessions","Introduction aux formulaires HTML","","","","TRUE","8","formulaires-et-sessions"
+"traitement-données-formulaire-php","traitement-données-formulaire-php","formulaires-et-sessions-traitement-données-formulaire-php","formulaires-et-sessions","Traitement des données de formulaire en PHP","","","","TRUE","9","formulaires-et-sessions"
+"introduction-sessions","introduction-sessions","formulaires-et-sessions-introduction-sessions","formulaires-et-sessions","Introduction aux sessions PHP","","","","TRUE","10","formulaires-et-sessions"
+"authentification-utilisateurs","authentification-utilisateurs","formulaires-et-sessions-authentification-utilisateurs","formulaires-et-sessions","Authentification des utilisateurs","","","","TRUE","11","formulaires-et-sessions"
+"sécurité-applications-web","sécurité-applications-web","formulaires-et-sessions-sécurité-applications-web","formulaires-et-sessions","Sécurité des applications web","","","","TRUE","12","formulaires-et-sessions"
+"formulaires-et-sessions-projet-final","formulaires-et-sessions-projet-final","formulaires-et-sessions-projet-final","formulaires-et-sessions","Projet final : Mini-réseau social","","","","TRUE","13","formulaires-et-sessions"
+"introduction-bases-données","introduction-bases-données","stockage-mysql-introduction-bases-données","stockage-mysql","Introduction aux bases de données relationnelles et à MySQL","","","","TRUE","14","stockage-mysql"
+"création-manipulation-tables","création-manipulation-tables","stockage-mysql-création-manipulation-tables","stockage-mysql","Création et manipulation de tables","","","","TRUE","15","stockage-mysql"
+"sql-requêtes-base","sql-requêtes-base","stockage-mysql-sql-requêtes-base","stockage-mysql","Le langage SQL : requêtes de base","","","","TRUE","16","stockage-mysql"
+"jointures","jointures","stockage-mysql-jointures","stockage-mysql","Les jointures","","","","TRUE","17","stockage-mysql"
+"connexion-mysql-php","connexion-mysql-php","stockage-mysql-connexion-mysql-php","stockage-mysql","Connexion à MySQL depuis PHP","","","","TRUE","18","stockage-mysql"
+"sécurité-base-données","sécurité-base-données","stockage-mysql-sécurité-base-données","stockage-mysql","Sécurité en base de données","","","","TRUE","19","stockage-mysql"
+"optimisation-requêtes-sql","optimisation-requêtes-sql","stockage-mysql-optimisation-requêtes-sql","stockage-mysql","Optimisation des requêtes SQL","","","","TRUE","20","stockage-mysql"
+"stockage-mysql-projet-final","stockage-mysql-projet-final","stockage-mysql-projet-final","stockage-mysql","Projet final : Application de gestion de bibliothèque","","","","TRUE","21","stockage-mysql"
+"connexion-base-données-mysql","connexion-base-données-mysql","php-mysql-connexion-base-données-mysql","php-mysql","Établir la connexion à une base de données MySQL","","","","TRUE","22","php-mysql"
+"exécution-requêtes-sql-simples","exécution-requêtes-sql-simples","php-mysql-exécution-requêtes-sql-simples","php-mysql","Exécution de requêtes SQL simples","","","","TRUE","23","php-mysql"
+"préparation-requêtes-injections-sql","préparation-requêtes-injections-sql","php-mysql-préparation-requêtes-injections-sql","php-mysql","Préparation des requêtes pour prévenir les injections SQL","","","","TRUE","24","php-mysql"
+"manipulation-résultats-requête","manipulation-résultats-requête","php-mysql-manipulation-résultats-requête","php-mysql","Manipulation des résultats de requête","","","","TRUE","25","php-mysql"
+"transactions","transactions","php-mysql-transactions","php-mysql","Transactions","","","","TRUE","26","php-mysql"
+"optimisation-performances","optimisation-performances","php-mysql-optimisation-performances","php-mysql","Optimisation des performances","","","","TRUE","27","php-mysql"
+"pdo-mysqli","pdo-mysqli","php-mysql-pdo-mysqli","php-mysql","PDO : une alternative à mysqli","","","","TRUE","28","php-mysql"
+"projet-final","projet-final","php-mysql-projet-final","php-mysql","Projet final : Application de gestion de tâches","","","","TRUE","29","php-mysql"
+"poo-en-php","poo-en-php","poo-php-poo-en-php","poo-php","Programmation Orientée Objet en PHP","","","","TRUE","30","poo-php"
+"introduction-programmation-orientée-objet","introduction-programmation-orientée-objet","poo-php-introduction-programmation-orientée-objet","poo-php","Introduction à la programmation orientée objet","","","","TRUE","31","poo-php"
+"encapsulation","encapsulation","poo-php-encapsulation","poo-php","Encapsulation","","","","TRUE","32","poo-php"
+"héritage","héritage","poo-php-héritage","poo-php","Héritage","","","","TRUE","33","poo-php"
+"polymorphisme","polymorphisme","poo-php-polymorphisme","poo-php","Polymorphisme","","","","TRUE","34","poo-php"
+"relations-entre-objets","relations-entre-objets","poo-php-relations-entre-objets","poo-php","Les relations entre les objets","","","","TRUE","35","poo-php"
+"design-patterns","design-patterns","poo-php-design-patterns","poo-php","Les design patterns","","","","TRUE","36","poo-php"
+"poo-bases-de-données","poo-bases-de-données","poo-php-poo-bases-de-données","poo-php","La POO et les bases de données","","","","TRUE","37","poo-php"
+"poo-php-projet-final","poo-php-projet-final","poo-php-projet-final","poo-php","Projet final : Application de gestion de bibliothèque (version POO)","","","","TRUE","38","poo-php"
+"introduction-sécurité-php","introduction-sécurité-php","sécurité-php-introduction-sécurité-php","sécurité-php","Introduction à la sécurité en PHP","","","","TRUE","39","sécurité-php"
+"injection-sql","injection-sql","sécurité-php-injection-sql","sécurité-php","Injection SQL","","","","TRUE","40","sécurité-php"
+"xss-cross-site-scripting","xss-cross-site-scripting","sécurité-php-xss-cross-site-scripting","sécurité-php","XSS (Cross-Site Scripting)","","","","TRUE","41","sécurité-php"
+"csrf-cross-site-request-forgery","csrf-cross-site-request-forgery","sécurité-php-csrf-cross-site-request-forgery","sécurité-php","CSRF (Cross-Site Request Forgery)","","","","TRUE","42","sécurité-php"
+"inclusion-fichiers","inclusion-fichiers","sécurité-php-inclusion-fichiers","sécurité-php","Inclusion de fichiers","","","","TRUE","43","sécurité-php"
+"gestion-sécurisée-sessions","gestion-sécurisée-sessions","sécurité-php-gestion-sécurisée-sessions","sécurité-php","Gestion sécurisée des sessions","","","","TRUE","44","sécurité-php"
+"configuration-sécurisée-serveur","configuration-sécurisée-serveur","sécurité-php-configuration-sécurisée-serveur","sécurité-php","Configuration sécurisée du serveur","","","","TRUE","45","sécurité-php"
+"sécurité-php-projet-final","sécurité-php-projet-final","sécurité-php-projet-final","sécurité-php","Projet final : Application de gestion de blog sécurisé","","","","TRUE","46","sécurité-php"
+"design-patterns","design-patterns","techniques-avancés-php-design-patterns","techniques-avancés-php","Design Patterns","","","","TRUE","47","techniques-avancés-php"
+"optimisation-des-performances","optimisation-des-performances","techniques-avancés-php-optimisation-des-performances","techniques-avancés-php","Optimisation des performances","","","","TRUE","48","techniques-avancés-php"
+"tests-unitaires","tests-unitaires","techniques-avancés-php-tests-unitaires","techniques-avancés-php","Tests unitaires","","","","TRUE","49","techniques-avancés-php"
+"api-rest","api-rest","techniques-avancés-php-api-rest","techniques-avancés-php","API REST","","","","TRUE","50","techniques-avancés-php"
+"projet-final","projet-final","projet-final-projet-final","projet-final","Projet final : Développement d'une application web complète","","","","TRUE","51","projet-final"
